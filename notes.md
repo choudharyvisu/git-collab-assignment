@@ -1,1 +1,1 @@
-This is a notes for assignment
+This is our notes for assignment
